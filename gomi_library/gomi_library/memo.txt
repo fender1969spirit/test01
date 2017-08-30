@@ -1,0 +1,11 @@
+gomichecker_manualは、IE9以降で稼働します。
+作成マニュアルはダウンロードできます。
+
+gomichecker_kashiwaraversionは、IE7以降で稼働します。
+作成マニュアルはもうしばらくお待ちください。
+
+gomichecker_originalversionは、IE7以降で稼働します。
+作成マニュアルはもうしばらくお待ちください。
+
+
+
